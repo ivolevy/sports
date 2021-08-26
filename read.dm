@@ -68,3 +68,7 @@ o ver que codigo dejar y cual sacar
 -borrar carpeta git del root en la terminal 
     rm -r .git
 NUNCA CREAR REPO LOCAL EN LA RAIZ DEL PROYECTO
+
+
+mostrar los commits en una linea
+     git log --oneline
